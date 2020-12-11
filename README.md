@@ -145,4 +145,4 @@ Contributions to the code, examples, documentation, etc. are very much appreciat
 
 The project is licensed under the [Confluent Community License](LICENSE).
 
-*Apache, Apache Kafka, Kafka, and associated open source project names are trademarks of the [Apache Software Foundation](https://www.apache.org/).*
+*Apache, Apache Kafka, Kafka, and associated open source project names are trademarks of the [Apache Software Foundation](https://www.apache.org/).*abcdef
